@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   modules: [
     'nuxt-gtag',
+    '@nuxt/content',
     '@nuxt/eslint',
     '@nuxt/test-utils/module',
     '@nuxtjs/i18n',
