@@ -1,6 +1,20 @@
-# Nuxt 3 Starter Template
+# Apple Sucks 🍎💔
 
-A pre-configured Nuxt 3 starter template with essential features.
+A community-driven site for documenting complaints, missing features, and design issues with Apple ecosystem products.
+
+## About
+
+This site serves as a collection of user experiences highlighting problems with Apple products - from missing basic features (like macOS lacking a system-wide audio mixer) to poor design decisions and strange behaviors. Posts are categorized by Apple product and hardware type to help users find relevant complaints.
+
+### Content Structure
+
+- **Posts**: Short descriptions of Apple product issues written in Markdown
+- **Categories**: Organized by Apple products (macOS, iOS, iPhone, MacBook, etc.)
+- **Future Features**: 
+  - Upvote/downvote system for posts
+  - Sorting by latest, hottest, most voted
+  - Filtering by product category
+  - Community voting to prioritize most impactful complaints
 
 ## Features
 
